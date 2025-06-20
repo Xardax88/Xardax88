@@ -46,10 +46,10 @@ Aquí hay algunas de las tecnologías y herramientas con las que he trabajado:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=NeoDoomed&show_icons=true&theme=nord&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Xardax88&show_icons=true&theme=nord&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeoDoomed&layout=compact&theme=nord&hide_border=true&locale=es" alt="Lenguajes Más Usados" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xardax88&layout=compact&theme=nord&hide_border=true&locale=es" alt="Lenguajes Más Usados" />
   </a>
 </div>
 
