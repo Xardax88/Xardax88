@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola a todos! Soy Maximiliano (Xardax) 👋</h1>
+<h1 align="center">Hola, soy Maximiliano (Xardax) </h1>
 
 <p align="center">
   Soy un programador, principalmente <strong>Back-end</strong>, apasionado por el desarrollo de aplicaciones web y videojuegos.
