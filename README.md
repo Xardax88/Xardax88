@@ -36,9 +36,8 @@ Aquí hay algunas de las tecnologías y herramientas con las que he trabajado:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/xardax)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paragoni.maxi@gmail.com.com)
-<!-- [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://tu-portfolio.com) -->
-<!-- [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/TuIDdeDiscord) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-paragoni-78605934a/)
+<!-- [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://tu-portfolio.com) -->
 
 ---
 
