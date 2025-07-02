@@ -1,4 +1,7 @@
-# Hola, soy Maximiliano (Xardax)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=50&center=true&vCenter=true&width=1000&lines=Hola!;Soy+Max(Xardax);Desarrollador+Full-Stack;)
+
 
 Soy un programador Full-Stack de Argentina, especializado en Back-End, desarrollo de Apps web, Apps escritorio y sistemas embebidos.
 
@@ -8,15 +11,18 @@ Soy un programador Full-Stack de Argentina, especializado en Back-End, desarroll
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-paragoni-78605934a/)
 <!-- [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://tu-portfolio.com) -->
 
+
+![GitHub Followers](https://img.shields.io/github/followers/xardax88?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/xardax88?style=social)
 ---
 
 ## 🚀 Sobre Mí
 
--   🔭 Actualmente estoy trabajando en: Un proyecto de desarrollo de un videojuego y un bot multi-propósito para Discord.
--   🛠️ Mi experiencia incluye el trabajo como programador de PLCs, lo que me ha proporcionado una sólida base en lógica de control y sistemas embebidos.
--   🌱 Estoy aprendiendo/explorando: IA generativa, patrones de diseño avanzados, y mejorando mis conocimientos sobre Python.
--   🎓 Graduado de la UTN-FRA Argentina.
--   ⚡ Dato curioso: Gamer, lector de fantasia y ciencia fiction, toco la guitarra, diseño e imprimo en 3D, y también suelo dibujar.
+-   Actualmente estoy trabajando en: Un proyecto de desarrollo de un videojuego y un bot multi-propósito para Discord.
+-   Mi experiencia incluye el trabajo como programador de PLCs, lo que me ha proporcionado una sólida base en lógica de control y sistemas embebidos.
+-   Estoy aprendiendo/explorando: IA generativa, patrones de diseño avanzados, y mejorando mis conocimientos sobre Python.
+-   Graduado de la UTN-FRA Argentina.
+-   Dato curioso: Gamer, lector de fantasia y ciencia fiction, toco la guitarra, diseño e imprimo en 3D, y también suelo dibujar.
 
 ---
 
@@ -38,15 +44,15 @@ Soy un programador Full-Stack de Argentina, especializado en Back-End, desarroll
 
 ## 📈 Mis Estadísticas de GitHub
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xardax88&show_icons=true&theme=nord&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xardax88&theme=nord&hide_border=true&locale=es" alt="Lenguajes Más Usados" />
-  </a>
-</div>
+![Xardax's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xardax88&bg_color=0d1117&color=ffffff&line=4B0082&point=f9fafa&area=true&hide_border=true)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=xardax88&show_icons=true&count_private=true&hide_border=true&title_color=F0F0F0&icon_color=4B0082&text_color=888888&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xardax88&layout=compact&hide_border=true&title_color=F0F0F0&text_color=888888&bg_color=0d1117" />
+</div> 
+
 
 ---
 
-¡Gracias por visitar mi perfil! ✨
+¡Gracias por visitar mi perfil!
